@@ -10,7 +10,7 @@ pydantic==2.5.0
 email-validator==2.1.0
 aiosmtplib==2.0.2
 aioimaplib==1.0.1
-python-email-utils==0.1.2
+
 httpx==0.25.2
 Pillow==10.1.0
 python-magic==0.4.27
